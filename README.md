@@ -15,6 +15,6 @@ The OSINT Vault operates as a private research entity focused on the formalizati
 Proprietary toolsets, custom API orchestrators, and internal methodology frameworks are currently restricted to private access. This ensures methodology integrity and deployment security.
 
 ---
-**AUTHORITY**
+**AUTHORITY**  
 Principal Investigator: [Nicole Hurey](https://github.com)  
 Strategic Inquiries: [paradoxindex.com](https://paradoxindex.com)
